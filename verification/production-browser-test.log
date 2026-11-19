@@ -1,0 +1,23 @@
+mobile renderer illustrated
+mobile tap #start 01 / 08
+mobile tap [data-color="2"] 01 / 08
+mobile tap #next 02 / 08
+mobile tap [data-ingredient="sugar"] 02 / 08
+mobile tap [data-ingredient="butter"] 02 / 08
+mobile tap [data-ingredient="egg"] 02 / 08
+mobile tap #next 03 / 08
+mobile tap #next 03 / 08
+mobile tap #bake 04 / 08
+mobile tap #bake 04 / 08
+mobile tap #bake 04 / 08
+mobile tap #bake 04 / 08
+mobile tap #next 06 / 08
+mobile tap #next 07 / 08
+mobile tap #openLetter 07 / 08
+mobile tap #skipTyping 07 / 08
+mobile tap #letterDone 07 / 08
+mobile tap #readAgain 08 / 08
+mobile tap #skipTyping 08 / 08
+mobile tap #letterDone 08 / 08
+mobile tap #again 00 / 08
+mobile PASS: full sequence, exact letter, replay, no page errors
